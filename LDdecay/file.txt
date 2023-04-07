@@ -1,0 +1,4 @@
+DOM.stat.gz	DOM
+MUS.stat.gz	MUS
+CAS2.stat.gz	CAS2
+CAS1.stat.gz	CAS1
