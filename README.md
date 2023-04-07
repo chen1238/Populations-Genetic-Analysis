@@ -19,3 +19,7 @@ chr1 120 170
 chr1 100 170
 
 ##################################
+
+TREEMIX:treemix.sh
+
+PSMC:PSMC.sh
