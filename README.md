@@ -27,3 +27,5 @@ PSMC:PSMC.sh
 SMC++:smc++.sh
 
 FST-PI:fst-pi.sh
+
+Dsuite:Dsuite.sh
