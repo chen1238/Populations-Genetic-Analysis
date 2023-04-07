@@ -29,4 +29,4 @@ cat output.psmc round*.psmc >combine.psmc
 #sudo apt-get install texlive-font-utils
 perl ../psmc/psmc-master/utils/psmc_plot.pl -u 4.1e-9 -g 1 -R -p out_plot output.psmc 
 
-#g=1/1.5 generations/1.5
+#1.5 genarations per year = 1/1.5 year per genaration
