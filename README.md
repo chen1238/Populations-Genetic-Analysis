@@ -2,7 +2,7 @@ There are many R script, Python script and linux script of population genetics a
 
 
 #################################
-merge-windows.R
+merge-windows.R #use to merge consecutive windows
 
 source('merge-windows.R')
 
