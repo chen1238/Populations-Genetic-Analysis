@@ -25,3 +25,5 @@ TREEMIX:treemix.sh
 PSMC:PSMC.sh
 
 SMC++:smc++.sh
+
+FST-PI:fst-pi.sh
