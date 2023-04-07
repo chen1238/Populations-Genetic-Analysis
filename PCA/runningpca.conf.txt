@@ -1,0 +1,17 @@
+genotypename: 4pop.geno
+
+snpname: 4pop.snp
+
+indivname: 4pop.ind
+
+evecoutname: 4pop.pca.evec
+
+evaloutname: 4pop.eval
+
+altnormstyle: NO
+
+numoutevec: 20
+
+numoutlieriter: 0
+
+outliersigmathresh: 6.0
