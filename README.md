@@ -18,7 +18,20 @@ chr1 120 170
 
 chr1 100 170
 
-##################################
+#################################
+Known regions seek genes
+
+input format:
+
+chr1  100 500
+
+chr2  100 300
+
+chr9  500 2500
+
+bash 1.sh #(./Findgene/) Mm.position; 1.sh; input.txt
+
+#################################
 
 TREEMIX:treemix.sh
 
