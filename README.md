@@ -1,7 +1,10 @@
 There are many R script, Python script and linux script of population genetics analysis.
 
+Note: The script is not checked, please point out if there is a problem.
 
-#################################
+
+scripts:
+
 merge-windows.R #use to merge consecutive windows
 
 source('merge-windows.R')
