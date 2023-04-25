@@ -36,6 +36,20 @@ bash 1.sh #(./Findgene/) Mm.position; 1.sh; input.txt
 
 #################################
 
+random_windows_vcf.py
+
+optional arguments:
+
+  -h, --help  show this help message and exit
+  
+  --input     input vcf file
+  
+  --num       the number of random rows, Required parameter
+  
+  --output    output vcf file
+  
+#################################
+
 TREEMIX:treemix.sh
 
 PSMC:PSMC.sh
