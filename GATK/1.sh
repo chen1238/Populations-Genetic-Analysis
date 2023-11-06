@@ -8,7 +8,7 @@ gatk VariantFiltration \
     -O snp.filter.vcf
 
 #INDEL
-gatk SelectVariants -V raw.vcf.gz -select-type INDEL -O indel.vcf.gz
+gatk SelectVariants -V raw.vcf.gz -select-type INDEL -O indel.vcf.gz --max-indel-size 50
 gatk VariantFiltration \
     -V indel.vcf.gz \
     --filter-expression "QUAL<30 || QD < 2.0 || FS > 200.0 || SOR > 10.0 || InbreedingCoeff < -0.8 || ReadPosRankSum < -20.0" \
