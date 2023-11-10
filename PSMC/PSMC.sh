@@ -24,9 +24,11 @@ done
 cat output.psmc round*.psmc >combine.psmc
 
 
-##9 plot
+##9 plot 
 #sudo apt install gnuplot-x11
 #sudo apt-get install texlive-font-utils
 perl ../psmc/psmc-master/utils/psmc_plot.pl -u 4.1e-9 -g 1 -R -p out_plot output.psmc 
 
-#1.5 genarations per year = 1/1.5 year per genaration
+#1.5 genarations per year
+#0.76 year per genaration
+#years = genarations * 0.76
